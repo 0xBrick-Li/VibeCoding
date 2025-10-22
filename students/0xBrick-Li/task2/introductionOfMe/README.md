@@ -1,6 +1,8 @@
 # 李天宇 - 个人简历网站
+部署后链接:https://vibe-coding-lovat.vercel.app/
 
 一个现代化、响应式的个人简历网站，使用 Next.js 14 + TypeScript + Tailwind CSS 构建。
+
 
 ## ✨ 特性
 
